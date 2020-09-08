@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Hokie Smith
+title: Hokie Lopez
 tagline: Hokie and Awesome Person
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
