@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Priyanka Ganguly",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
+    "description": "This is a professional site of Priyanka Ganguly. You will find information about my studies and research at Virginia Tech. ",
+    "siteUrl": "https://gangulypriya.netlify.app/",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-180574609-1"
 }
