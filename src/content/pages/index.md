@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Priyanka Ganguly
+tagline: Virginia Tech English Department
+featuredImage: /assets/priya-photo.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He loves VT and the good life.
+Hi. I am a first-year PhD student in rhetoric and writing program at Virginia Tech.
